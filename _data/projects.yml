@@ -12,7 +12,7 @@
 - project: Terra Virtua
   role: Full-Stack Developer (MERN)
   duration: May 2021 &mdash; December 2021
-  url: "virtua.io"
+  url: "https://virtua.io"
   description: This project was built completely using JavaScript. I wrote back-end using Express JS, most of the work done on the back-end included REST APIs that handled the request coming from the front-end. The project was built using different micro-services. Each module has its own micro-service. The language I used on back-end is TypeScript. On front-end, I was provided the HTML, CSS structure by the design team, which I converted into React Components. I used Formik for handling forms on the website. State management was handled with the help of Redux-Saga. I also worked on different Amazon Web Services when working on this project, I designed the email notification micro-service from scratch for this project for which I worked on Amazon SES. Amazon EC2 and Amazon S3 is also used in building this project. Amazon RDS was used to handle the database of this project. In short, I have worked on several AWS services in building this project.
 
 
