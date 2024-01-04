@@ -2,15 +2,22 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: PayQual
+  role: Full-Stack Developer (React Native)
+  duration: June 2023 &mdash; October 2023
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: PayQual is an expense management mobile app built with React Native; it uses MongoDB realm as its offline storage. The app is made offline-first.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Terra Virtua
+  role: Full-Stack Developer (MERN)
+  duration: May 2021 &mdash; December 2021
+  url: "virtua.io"
+  description: This project was built completely using JavaScript. I wrote back-end using Express JS, most of the work done on the back-end included REST APIs that handled the request coming from the front-end. The project was built using different micro-services. Each module has its own micro-service. The language I used on back-end is TypeScript. On front-end, I was provided the HTML, CSS structure by the design team, which I converted into React Components. I used Formik for handling forms on the website. State management was handled with the help of Redux-Saga. I also worked on different Amazon Web Services when working on this project, I designed the email notification micro-service from scratch for this project for which I worked on Amazon SES. Amazon EC2 and Amazon S3 is also used in building this project. Amazon RDS was used to handle the database of this project. In short, I have worked on several AWS services in building this project.
+
+
+- project: DVEA
+  role: Full-Stack Developer (ElectronJS)
+  #duration: May 2021 &mdash; December 2021
+  url: "https://github.com/njmulsqb/DVEA"
+  description: I am the author of DVEA which is a project built for security engineers and software developers that are looking to learn about vulnerabilities found in ElectronJS and how can they be exploited.
