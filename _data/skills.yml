@@ -1,12 +1,12 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Languages & Frameworks
+  description: My area of expertise is Javascript and Typescript, hands down. I can work on any framework or stack that lies under JS/TS but it doesnt make me limited in anyway, I am not language-oriented and have worked with Python, C# and Java in the past as well. I believe its the core concepts that matter in programming.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Cloud (Azure & AWS)
+  description: I have strong grip over two major cloud platforms and their services like on AWS I have worked on SES, EC2, S3, RDS, EFS, etc and on Azure I have experience on Web apps, function apps, VMs, Blob storages, logic apps, resource graph explorer and the list goes on. I love to work on cloud.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# - skill: Digital content development and creation
+#   description: Copy writing, graphic design, web design, front-end web development, print design
